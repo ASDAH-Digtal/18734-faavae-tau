@@ -1,29 +1,29 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4737149&assignment_repo_type=AssignmentRepo)
+ [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4737149&assignment_repo_type=AssignmentRepo)
 # 18734
 ## Create a web page using a template (Level 1 Unit Standard)
 
-Name: 
+Name: Faavae Taufaga
 
-Date: 
+Date: 10/05/21
 
-Homeroom: 
+Homeroom: 10ab
 
-Teacher: 
+Teacher: Mr Malaitai
 
 # Instructions:
 
 ## Complete the following:
 1. What is the purpose of the web page?
 
-*INSERT ANSWER HERE*
+*too show people that i admire this specific person in WWE and This is The Rocks Only Fans. *
 
 2. Who is the target audience of the web page?
 
-*INSERT ANSWER HERE*
+*Its WWE fans and mr malaitai because i need Credits*
 
 3. What resources (e.g. images, videos etc) will you need to create your web page? 
 
-*INSERT ANSWER HERE*
+*  i will need videos and photos and informations of him*
 
 4. Create a conceptual design of the web page and upload it to your repository.
 
